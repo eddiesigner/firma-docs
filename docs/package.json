@@ -1,0 +1,19 @@
+{
+  "name": "firma-docs",
+  "version": "0.0.1",
+  "description": "Official documentation of the theme Firma for Ghost",
+  "main": "index.js",
+  "authors": {
+    "name": "Eduardo Gómez",
+    "email": "this.eduardo@gmail.com"
+  },
+  "repository": "https://github.com/eddiesigner/firma-docs/firma-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
