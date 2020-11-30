@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Firma Documentation
-actionText: Quick Start →
+heroImage: /logo.png
+tagline: Firma Ghost theme official documentation
+actionText: Get started →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Clean & modern design
+  details: It stands out for its clean design and is able to adapt to any company's identity. Light and dark version available.
+- title: Members-ready
+  details: Full Members and subscriptions support (yes, with this theme you can turn your audience into a business).
+- title: Performant
+  details: Lightning fast and fully responsive, looks great on any device. Compatible with modern browsers. Accessibility as part of its core.
 footer: Made by Eduardo Gomez with ❤️
 ---
