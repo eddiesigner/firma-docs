@@ -2,7 +2,7 @@
 
 Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to large companies to publish any kind of articles related to their business. It stands out for its clean design and is able to adapt to any company's identity.
 
-## Main features
+## Main Features
 
 * [Light](https://firma.eduardogomez.io/) and [dark](https://firma-dark.eduardogomez.io/) version
 * Clean and modern design
@@ -15,7 +15,7 @@ Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to lar
 
 [All the features](https://firma.eduardogomez.io/features/) | [Style Guide](https://firma.eduardogomez.io/style-guide/)
 
-## Help and support
+## Help and Support
 
 This guide describes the steps to follow to get the most out of this theme, if for any reason you don't find an answer to any question, don't hesitate to contact me via [email](mailto:this.eduardo@gmail.com).
 

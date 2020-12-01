@@ -57,6 +57,13 @@ module.exports = {
             '',
             'theme-structure',
             'install-theme',
+            'update-theme',
+            'enable-search',
+            'enable-authors-page',
+            'enable-tags-page',
+            'enable-newsletter',
+            'add-comments',
+            'enable-members',
           ]
         }
       ],

@@ -1,4 +1,4 @@
-# Theme structure
+# Theme Structure
 
 The theme is organized with the following file structure:
 

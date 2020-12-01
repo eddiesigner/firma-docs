@@ -11,5 +11,5 @@ features:
   details: Full Members and subscriptions support (yes, with this theme you can turn your audience into a business).
 - title: Performant
   details: Lightning fast and fully responsive, looks great on any device. Compatible with modern browsers. Accessibility as part of its core.
-footer: Made by Eduardo Gomez with ❤️
+footer: Made by Eduardo Gómez with ❤️
 ---
