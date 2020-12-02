@@ -48,30 +48,37 @@ module.exports = {
         link: 'https://gumroad.com'
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'theme-structure',
-            'install-theme',
-            'update-theme',
-            'enable-search',
-            'enable-authors-page',
-            'enable-tags-page',
-            'enable-newsletter',
-            'add-comments',
-            'table-of-contents',
-            'enable-members',
-            'theme-translation',
-            'dark-mode',
-            'theme-development',
-          ]
-        }
-      ],
-    }
+    sidebar: [
+      {
+        title: 'Guide',
+        collapsable: false,
+        children: [
+          '/guide/',
+          '/guide/theme-structure',
+          '/guide/install-theme',
+          '/guide/update-theme',
+          '/guide/enable-search',
+          '/guide/enable-authors-page',
+          '/guide/enable-tags-page',
+          '/guide/enable-newsletter',
+          '/guide/add-comments',
+          '/guide/table-of-contents',
+          '/guide/enable-members',
+          '/guide/theme-translation',
+          '/guide/dark-mode',
+          '/guide/theme-development',
+        ]
+      },
+      {
+        title: 'Additional Notes',
+        collapsable: false,
+        children: [
+          '/additional-notes/custom-colors',
+          '/additional-notes/post-templates',
+          '/additional-notes/resources',
+        ]
+      }
+    ],
   },
 
   /**

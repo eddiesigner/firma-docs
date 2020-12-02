@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.png
-tagline: Firma Ghost theme official documentation
+tagline: Firma Ghost Theme Official Documentation
 actionText: Get started →
 actionLink: /guide/
 features:
