@@ -63,7 +63,11 @@ module.exports = {
             'enable-tags-page',
             'enable-newsletter',
             'add-comments',
+            'table-of-contents',
             'enable-members',
+            'theme-translation',
+            'dark-mode',
+            'theme-development',
           ]
         }
       ],
