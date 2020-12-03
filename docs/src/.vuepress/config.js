@@ -36,6 +36,14 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Features',
+        link: 'https://firma.eduardogomez.io/features',
+      },
+      {
+        text: 'Style Guide',
+        link: 'https://firma.eduardogomez.io/style-guide',
+      },
+      {
         text: 'Light Version',
         link: 'https://firma.eduardogomez.io/',
       },
@@ -75,6 +83,7 @@ module.exports = {
         children: [
           '/additional-notes/custom-colors',
           '/additional-notes/post-templates',
+          '/additional-notes/tables-and-forms',
           '/additional-notes/resources',
         ]
       }
