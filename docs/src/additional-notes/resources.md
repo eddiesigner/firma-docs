@@ -14,6 +14,7 @@ Below I list some official tutorials that I think you might find useful since th
 
 If you need help with something specific or if you just want to learn more about the platform, I recommend you take a look at the following links:
 
+* [Ghost Docs](https://ghost.org/docs/)
 * [Ghost Tutorials](https://ghost.org/tutorials/)
 * [Ghost Integrations](https://ghost.org/integrations/)
 * [Ghost FAQ](https://ghost.org/faq/)

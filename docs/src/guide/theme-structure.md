@@ -46,7 +46,9 @@ The theme is organized with the following file structure:
 │   │   ├── vendor
 │   │   │   └── search-libs.min.js
 │   │   └── vendor.js
-│   └── mix-manifest.json
+│   ├── mix-manifest.json
+│   ├── screenshot-desktop.jpg
+│   └── screenshot-mobile.jpg
 ├── author.hbs
 ├── custom-page-no-newsletter.hbs
 ├── custom-post-no-newsletter.hbs
