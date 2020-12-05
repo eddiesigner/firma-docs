@@ -1,4 +1,4 @@
-# Dark Mode
+# Dark Version
 
 By default Firma comes in light version but can be changed to dark version easily, [here](https://firma-dark.eduardogomez.io/) you can see a demo of how it looks.
 

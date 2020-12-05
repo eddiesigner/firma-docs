@@ -73,7 +73,7 @@ module.exports = {
           '/guide/table-of-contents',
           '/guide/enable-members',
           '/guide/theme-translation',
-          '/guide/dark-mode',
+          '/guide/dark-version',
           '/guide/theme-development',
         ]
       },

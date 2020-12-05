@@ -2,6 +2,8 @@
 
 Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to large companies to publish any kind of articles related to their business. It stands out for its clean design and is able to adapt to any company's identity.
 
+![Firma artboard](https://res.cloudinary.com/edev/image/upload/v1607197050/firma/Artboard_1.jpg)
+
 ## Main Features
 
 * [Light](https://firma.eduardogomez.io/) and [dark](https://firma-dark.eduardogomez.io/) version
@@ -17,7 +19,7 @@ Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to lar
 
 ## Help and Support
 
-This guide describes the steps to follow to get the most out of this theme, if for any reason you don't find an answer to any question, don't hesitate to contact me via [email](mailto:this.eduardo@gmail.com).
+This guide describes the steps to follow to get the most out of this theme, if for any reason you don't find an answer to any question, don't hesitate to contact me via [email](mailto:this.eduardo@gmail.com), I usually write back on weekdays.
 
 ## Credits
 
@@ -27,8 +29,8 @@ Font family used in this theme: [Poppins](https://fonts.google.com/specimen/Popp
 
 Libraries used in this theme:
 
-* Alpine.js
 * Ghost Content API
+* Alpine.js
 * Fuse.js
 * Lazyload
 * lightense-images

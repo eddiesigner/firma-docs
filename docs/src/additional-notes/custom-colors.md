@@ -24,7 +24,7 @@ The list of color variables is as follows:
   --error-color: #c21919;
   --mobile-menu-shadow-opacity: 0.4;
   --submenu-shadow-opacity: 0.2;
-  --post-card-shadow-opacity: 0.12;
+  --post-card-shadow-opacity: 0.24;
 }
 ```
 
