@@ -36,6 +36,14 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Change Log',
+        link: '/misc/changelog',
+      },
+      {
+        text: 'Terms',
+        link: '/misc/terms',
+      },
+      {
         text: 'Features',
         link: 'https://firma.eduardogomez.io/features',
       },
@@ -44,16 +52,8 @@ module.exports = {
         link: 'https://firma.eduardogomez.io/style-guide',
       },
       {
-        text: 'Light Version',
-        link: 'https://firma.eduardogomez.io/',
-      },
-      {
-        text: 'Dark Version',
-        link: 'https://firma-dark.eduardogomez.io/'
-      },
-      {
         text: 'Get Firma',
-        link: 'https://gumroad.com'
+        link: 'https://gum.co/ZXLha'
       }
     ],
     sidebar: [
@@ -65,6 +65,8 @@ module.exports = {
           '/guide/theme-structure',
           '/guide/install-theme',
           '/guide/update-theme',
+          '/guide/publication-settings',
+          '/guide/navigation',
           '/guide/enable-search',
           '/guide/enable-authors-page',
           '/guide/enable-tags-page',
@@ -83,6 +85,7 @@ module.exports = {
         children: [
           '/additional-notes/custom-colors',
           '/additional-notes/post-templates',
+          '/additional-notes/social-icons',
           '/additional-notes/tables-and-forms',
           '/additional-notes/resources',
         ]
