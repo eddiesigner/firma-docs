@@ -19,7 +19,7 @@ Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to lar
 
 ## Help and Support
 
-This guide describes the steps to follow to get the most out of this theme, if for any reason you don't find an answer to any question, don't hesitate to contact me via [email](mailto:this.eduardo@gmail.com), I usually write back on weekdays.
+This guide describes the steps to follow to get the most out of this theme, if for any reason you don't find an answer to any question, don't hesitate to contact me via [email](mailto:this.eduardo@gmail.com), I try to respond as soon as possible, no longer than one business day later.
 
 ## Credits
 
