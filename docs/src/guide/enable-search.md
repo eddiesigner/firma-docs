@@ -6,7 +6,7 @@ The search uses a Content API Key in order to work, that means the first thing y
 
 2. Copy the **Content API Key**.
 
-Then head to the **Code injection** page and paste the following code into the **Site Header** block:
+3. Then head to the **Code injection** page and paste the following code into the **Site Header** block:
 
 ```html
 <script>
@@ -16,4 +16,12 @@ Then head to the **Code injection** page and paste the following code into the *
 
 Remember that you have to replace `YOUR_CONTENT_API_KEY_GOES_HERE` with the Content API Key that you got in step 2.
 
-Finally save the changes, open your website again and it should work now.
+4. Now head to the **Pages** page and press the **New page** button.
+
+5. Name this page as _Search_.
+
+6. Publish the page.
+
+::: warning
+It is important that the **Page URL** value in the page settings is `search`, otherwise it will not work properly.
+:::
