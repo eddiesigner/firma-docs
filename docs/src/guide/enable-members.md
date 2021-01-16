@@ -87,3 +87,15 @@ The Account, Sign in and Sign up links are automatically included in the main me
 Don't forget to replace `YOUR_SITE_URL` with your website's URL.
 
 Please make sure that the last part of each url matches its respective path in the `routes.yaml` file, otherwise it will not work.
+
+## Portal
+
+[Portal](https://ghost.org/changelog/portal/) is a new feature that comes enabled by default in the latest versions of Ghost, among some of its options is the option to display a button to subscribe which is visible on all pages of your site.
+
+Although this button could be useful in some situations, I recommend that you disable it since Weiss Pro already manages everything related to memberships, also because for now the button and the interface that is displayed when you press it are not very customizable and may not work very well with the language and design of your site.
+
+To disable it head to your Ghost Admin and go to the **Labs** menu, there you should click on the **Customise** button in the Portal settings.
+
+In the window that appears you only have to disable the "**Show Portal button**" option, save the changes and that's it, as shown in the following screenshot:
+
+![Portal settings](https://res.cloudinary.com/edev/image/upload/v1610823818/firma/CleanShot_2021-01-16_at_20.02.48_2x.png)
