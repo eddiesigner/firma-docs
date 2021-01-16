@@ -5,7 +5,7 @@
 > Release on 18 Jan 2021
 
 * Add French translations (by **Cédric Godart**)
-* Add a trailing slash in the search url to make sure it works well on Ghost Pro instances
+* Add a trailing slash in the search url to make sure it works well on all Ghost Pro instances
 * Change style of lists in post content
 * Fix some styles in Bookmark cards
 * Center text in Auth forms when there is no image
