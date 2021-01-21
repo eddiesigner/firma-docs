@@ -87,6 +87,7 @@ module.exports = {
           '/additional-notes/post-templates',
           '/additional-notes/social-icons',
           '/additional-notes/tables-and-forms',
+          '/additional-notes/open-external-links',
           '/additional-notes/resources',
         ]
       }
