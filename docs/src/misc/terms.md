@@ -2,7 +2,7 @@
 
 ## License
 
-The License allows you as a Buyer to:
+The License DOES allow you as a Buyer to:
 
 * You can use the theme personally or commercially
 * You can modify the theme or create a new one based on it

@@ -87,7 +87,7 @@ To add a **checkbox** or a **radio button** element correctly you should use som
 </label>
 ```
 
-Please use an identical structure as shown in the examples, the class `input-checkbox` and `input-radio matter`. The tags `label`, `div` and `span` also matter and should remain in that order.
+Please use an identical structure as shown in the examples, the class `input-checkbox` and `input-radio` matter. The tags `label`, `div` and `span` also matter and should remain in that order.
 
 ::: warning
 The styles of tables and form elements only work in the body of a post or a regular page.
