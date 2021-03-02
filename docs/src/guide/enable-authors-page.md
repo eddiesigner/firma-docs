@@ -1,6 +1,10 @@
 # Enable Authors Page
 
-To enable the Authors page please follow these steps:
+This page is where you can see all the authors at a glance (you could use it as a Team page if you will), you can see a live demo in [this link](https://firma.eduardogomez.io/authors/), it looks like this:
+
+![](https://res.cloudinary.com/edev/image/upload/v1614717546/firma/authors_page.jpg)
+
+To enable this page please follow these steps:
 
 1. In the Ghost Admin head to the **Pages** page and press the **New page** button.
 

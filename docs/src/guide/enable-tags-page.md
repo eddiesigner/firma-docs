@@ -1,6 +1,10 @@
 # Enable Tags Page
 
-To enable the Tags page please follow these steps:
+This page is where you can see all the tags at a glance, you can see a live demo in [this link](https://firma.eduardogomez.io/tags/), it looks like this:
+
+![](https://res.cloudinary.com/edev/image/upload/v1614716991/firma/tags_page.jpg)
+
+To enable this page please follow these steps:
 
 1. In the Ghost Admin head to the **Pages** page and press the **New page** button.
 
