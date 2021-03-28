@@ -18,9 +18,27 @@ The following steps will guide you so that you can have a development environmen
 
 6. Run `npm run get-database` to get the Ghost database dump.
 
-7. Start Docker.
+7. From Ghost 4 onwards you need to pass your Stripe Webhook Secret as an environment variable which you can get from the [Webhooks page](https://dashboard.stripe.com/webhooks) in your dashboard.
 
-8. Run `npm run docker-watch`.
+8. Open the file `src/docker-compose.yml` with a text/code editor and search for the following piece of code:
+
+```
+WEBHOOK_SECRET=
+```
+
+9. Copy the **Signing Secret** from your Stripe Webhook and paste it in that line of code, it should look something like this:
+
+```
+WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxx
+```
+
+10. Save your changes.
+
+For more information on how to set up your Stripe account please go to [this link](https://ghost.org/help/setup-members/).
+
+11. Start Docker.
+
+12. Run `npm run docker-watch`.
 
 If all goes well, a tab will open in your browser with this URL: `http://localhost:3000`. From that moment on you can start making changes in the templates, stylesheets and Javascript files and your changes will be automatically reflected in the browser, cool right?
 

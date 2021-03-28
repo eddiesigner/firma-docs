@@ -1,12 +1,22 @@
 # Enable Newsletter
 
+## Ghost 4
+
+In Ghost 4 the Members feature is enabled by default and it can't be disabled (at least for now), that means you don't have to do anything to enable the newsletter form.
+
+## Ghost 3
+
 To enable the Newsletter in your website please head to the Ghost Admin, click on the **Labs** menu and then enable the **Members** option.
 
 ![Members option](https://res.cloudinary.com/edev/image/upload/v1606856650/firma/CleanShot_2020-12-01_at_22.03.18_2x.png)
 
 The other options are irrelevant for the Newsletter so don't worry about them.
 
-The previous action will enable the Newsletter form in multiple pages across your website. Additionally you can also enable the Newsletter page, to do so please follow these steps:
+The previous action will enable the Newsletter form in multiple pages across your website.
+
+## Newsletter Page
+
+Additionally you can also enable the Newsletter page, to do so please follow these steps:
 
 1. In the Ghost Admin head to the **Pages** page and press the **New page** button.
 

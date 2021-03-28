@@ -94,7 +94,7 @@ Please make sure that the last part of each url matches its respective path in t
 
 Although this button could be useful in some situations, I recommend that you disable it since Firma already manages everything related to memberships, also because for now the button and the interface that is displayed when you press it are not very customizable and may not work very well with the language and design of your site.
 
-To disable it head to your Ghost Admin and go to the **Labs** menu, there you should click on the **Customise** button in the Portal settings.
+To disable it head to your Ghost Admin and go to **Settings** and click on **Portal**.
 
 In the window that appears you only have to disable the "**Show Portal button**" option, save the changes and that's it, as shown in the following screenshot:
 

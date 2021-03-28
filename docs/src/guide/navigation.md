@@ -2,7 +2,7 @@
 
 Ghost offers two types of navigation: Main Navigation and Secondary Navigation. To add links to either of these two types of navigation follow these steps:
 
-1. In the Ghost Admin head to the **Design** page.
+1. In the Ghost Admin go to **Settings** and then click on **Navigation**.
 
 2. Either in the main navigation or in the secondary navigation, click on the last empty field.
 

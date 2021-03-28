@@ -4,9 +4,9 @@ By default Firma comes in light version but can be changed to dark version easil
 
 To switch to the dark version please follow these steps:
 
-1. Head to the **Code injection** page in the Ghost Admin.
+1. In the Ghost Admin go to **Settings** and then click on **Code injection**.
 
-2. Paste the following code into the **Site Header** block:
+2. Paste the following code into the **Site Header** section:
 
 ```html
 <style>

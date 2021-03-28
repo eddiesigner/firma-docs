@@ -2,7 +2,7 @@
 
 To install this theme please follow these steps:
 
-1. In the Ghost Admin head to the **Design** page and scroll all the way down.
+1. In the Ghost Admin go to **Settings**, click on **Theme** and scroll all the way down.
 
 2. Press the **Upload a theme** button.
 

@@ -30,7 +30,7 @@ The list of color variables is as follows:
 
 For example, if you want to change the accent color and the background of the primary buttons you can simply use a different color value in `--button-background-color` and `--accent-color`.
 
-To do so just open the Ghost Admin and head to the **Code injection** page and paste the following code into the **Site Header** block:
+To do so just open the Ghost Admin, go to **Settings**, click on **Code injection** and paste the following code into the **Site Header** section:
 
 ```html
 <style>
@@ -49,6 +49,10 @@ To this:
 
 ![Firma modified colors](https://res.cloudinary.com/edev/image/upload/v1606987135/firma/Screenshot_2020-12-03_Membership.png)
 
+::: tip
+From Ghost 4 onwards if you only want to change the accent color, it is better to do it  in the [Branding settings](/guide/publication-settings.html#branding) since the accent color defined there takes precedence.
+:::
+
 ::: warning
 Be careful not to change the names of the variables, they should remain as they are.
 :::
@@ -59,8 +63,6 @@ Additionally, there are other color variables that you can also modify if you wi
 :root {
   --featured-main-color: #ffffff;
   --background-text-color: #aebecf;
-  --success-text-color: #1e5c5b;
-  --success-background-color: #ecfdfa;
   --focus-color: #90cdf4;
   --loading-color: #ffffff;
   --highlighting-color: #ffff00;

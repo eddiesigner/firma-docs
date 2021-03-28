@@ -46,9 +46,9 @@ The theme is organized with the following file structure:
 │   │   ├── vendor
 │   │   │   └── search-libs.min.js
 │   │   └── vendor.js
-│   ├── mix-manifest.json
-│   ├── screenshot-desktop.jpg
-│   └── screenshot-mobile.jpg
+│   ├── mix-manifest.json
+│   ├── screenshot-desktop.jpg
+│   └── screenshot-mobile.jpg
 ├── author.hbs
 ├── custom-page-no-newsletter.hbs
 ├── custom-post-no-newsletter.hbs
@@ -59,7 +59,8 @@ The theme is organized with the following file structure:
 ├── index.hbs
 ├── locales
 │   ├── en.json
-│   └── es.json
+│   ├── es.json
+│   └── fr.json
 ├── members
 │   ├── account.hbs
 │   ├── membership.hbs
@@ -90,7 +91,6 @@ The theme is organized with the following file structure:
 │   ├── nav-post.hbs
 │   ├── navigation.hbs
 │   ├── newsletter-form.hbs
-│   ├── notifications.hbs
 │   ├── pagination.hbs
 │   ├── post-access.hbs
 │   ├── post-card.hbs
@@ -173,7 +173,6 @@ The theme is organized with the following file structure:
 │   │   │   │   ├── _icon-button.scss
 │   │   │   │   ├── _loading-indicator.scss
 │   │   │   │   ├── _newsletter.scss
-│   │   │   │   ├── _notification.scss
 │   │   │   │   ├── _pagination.scss
 │   │   │   │   ├── _post-card.scss
 │   │   │   │   ├── _posts-container.scss
