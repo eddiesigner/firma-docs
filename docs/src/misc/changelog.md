@@ -1,5 +1,64 @@
 # Change Log
 
+## Version 1.5.0
+> Mar 28th 2021
+
+* **Ghost 4 support** 🎉
+* Accent color support
+* Update dependencies
+* Replace legacy code
+* Bugfixes and improvements
+
+```
+Modified files:
+
+.gitignore 
+README.md                    
+author.hbs 
+custom-post-no-newsletter.hbs
+custom-table-of-contents.hbs 
+custom-toc-no-newsletter.hbs 
+default.hbs 
+index.hbs   
+locales/en.json         
+locales/es.json         
+locales/fr.json         
+members/account.hbs 
+package.json            
+page-search.hbs    
+page.hbs  
+partials/desktop-menu.hbs 
+partials/featured-post.hbs 
+partials/hero.hbs  
+partials/latest-post.hbs 
+partials/membership.hbs 
+partials/mobile-menu.hbs
+partials/nav-post.hbs   
+partials/post-card.hbs   
+partials/recent-post.hbs
+partials/related-post.hbs
+post.hbs
+src/docker-compose.yml
+src/js/app.js
+src/js/helpers.js
+src/js/vendor/search-libs.min.js
+src/package-lock.json
+src/package.json
+src/sass/app.scss
+src/sass/common/_variables.scss
+src/sass/components/article/_content.scss
+src/sass/components/auth/_form.scss
+src/sass/components/common/_notification.scss
+src/sass/components/header/_mobile-menu.scss
+src/webpack.mix.js
+tag.hbs
+
+Removed files:
+
+partials/notifications.hbs
+src/sass/components/common/_notification.scss
+```
+
 ## v1.0.1
 
 > Release on 18 Jan 2021
