@@ -48,7 +48,6 @@ src/sass/app.scss
 src/sass/common/_variables.scss
 src/sass/components/article/_content.scss
 src/sass/components/auth/_form.scss
-src/sass/components/common/_notification.scss
 src/sass/components/header/_mobile-menu.scss
 src/webpack.mix.js
 tag.hbs
