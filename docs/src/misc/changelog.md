@@ -8,6 +8,21 @@
 * German translations
 * Update Ghost image (only for development)
 
+```
+Modified files:
+
+README.md
+custom-page-no-newsletter.hbs
+custom-post-no-newsletter.hbs
+custom-table-of-contents.hbs
+custom-toc-no-newsletter.hbs
+locales/de.json
+package.json
+page.hbs
+post.hbs
+src/docker-compose.yml
+```
+
 ## Version 1.5.0
 > Mar 28th 2021
 
