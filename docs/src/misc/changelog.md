@@ -4,7 +4,7 @@
 
 > May 1th 2021
 
-* Public Previews support https://ghost.org/help/public-previews/
+* Public Previews support [https://ghost.org/help/public-previews/](https://ghost.org/help/public-previews/)
 * German translations
 * Update Ghost image (only for development)
 
