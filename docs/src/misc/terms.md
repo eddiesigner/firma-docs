@@ -46,4 +46,4 @@ If you have any questions prior to purchase please do not hesitate to [contact m
 
 ## Copyright
 
-© 2020 - 2021 Eduardo Gómez
+© 2020-present Eduardo Gómez

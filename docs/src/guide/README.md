@@ -39,4 +39,4 @@ Libraries used in this theme:
 
 ## License
 
-Copyright (c) 2020-2021 Eduardo Gómez, all rights reserved.
+Copyright (c) 2020-present Eduardo Gómez, all rights reserved.

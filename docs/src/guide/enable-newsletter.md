@@ -2,7 +2,9 @@
 
 ## Ghost 4
 
-In Ghost 4 the Members feature is enabled by default and it can't be disabled (at least for now), that means you don't have to do anything to enable the newsletter form.
+In Ghost 4 the Members feature is enabled by default, that means you don't have to do anything to enable the Newsletter form.
+
+If you disable the Members feature, the Newsletter form will be removed automatically.
 
 ## Ghost 3
 

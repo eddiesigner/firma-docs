@@ -1,8 +1,50 @@
 # Change Log
 
+## Version 1.5.5
+
+> 12/10/2021
+
+* Support for feature image captions [https://ghost.org/changelog/feature-image-captions/](https://ghost.org/changelog/feature-image-captions/)
+* Support for more subscriptions statuses 
+* Remove Newsletter form and Members buttons if the corresponding setting is disabled in the Ghost Admin
+* Update Ghost image (only for development)
+* Bug fixes and improvements
+
+```
+Modified files:
+
+README.md
+author.hbs
+custom-table-of-contents.hbs
+index.hbs
+locales/de.json
+locales/en.json
+locales/es.json
+locales/fr.json
+members/account.hbs
+package.json
+page-newsletter.hbs
+page-search.hbs
+page.hbs
+partials/desktop-menu.hbs
+partials/hero.hbs
+partials/mobile-menu.hbs
+partials/nav-post.hbs
+partials/newsletter-form.hbs
+partials/post-header.hbs
+partials/share-post.hbs
+post.hbs
+src/docker-compose.yml
+src/sass/common/_mixins.scss
+src/sass/components/account/_subscription.scss
+src/sass/components/article/_image.scss
+src/sass/components/article/_toc.scss
+tag.hbs
+```
+
 ## Version 1.5.2
 
-> May 1th 2021
+> 01/05/2021
 
 * Public Previews support [https://ghost.org/help/public-previews/](https://ghost.org/help/public-previews/)
 * German translations
@@ -24,7 +66,8 @@ src/docker-compose.yml
 ```
 
 ## Version 1.5.0
-> Mar 28th 2021
+
+> 28/03/2021
 
 * **Ghost 4 support** 🎉
 * Accent color support
@@ -83,7 +126,7 @@ src/sass/components/common/_notification.scss
 
 ## v1.0.1
 
-> Release on 18 Jan 2021
+> 18/01/2021
 
 * Add French translations (by **Cédric Godart**)
 * Add a trailing slash in the search url to make sure it works well on all Ghost Pro instances
@@ -97,6 +140,6 @@ src/sass/components/common/_notification.scss
 
 ## v1.0.0
 
-> Release on 07 Dec 2020
+> 07/12/2020
 
-* First release
+* First release 🎉

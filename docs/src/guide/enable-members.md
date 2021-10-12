@@ -99,3 +99,11 @@ To disable it head to your Ghost Admin and go to **Settings** and click on **Por
 In the window that appears you only have to disable the "**Show Portal button**" option, save the changes and that's it, as shown in the following screenshot:
 
 ![Portal settings](https://res.cloudinary.com/edev/image/upload/v1610823818/firma/CleanShot_2021-01-16_at_20.02.48_2x.png)
+
+## Disable Members
+
+If you don't want to use any of the Members features you can disable it in the Ghost Admin, to do so just head to the **Settings** page and then go to **Membership**, in that page you can choose who should be able to subscribe to your site (**Subscription access**), in this case you can choose that no one will be able to subscribe or sign in.
+
+![Disable members](https://res.cloudinary.com/edev/image/upload/v1633180874/galerie/disable-members.png)
+
+When Members is disabled all the sign up and sign in buttons will be removed, also the Newsletter form will be removed.
