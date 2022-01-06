@@ -4,7 +4,7 @@ Firma is a [Ghost](https://ghost.org/) theme that can be used by startups to lar
 
 ## Main Features
 
-* [Light](https://firma.eduardogomez.io/) and [dark](https://firma-dark.eduardogomez.io/) version
+* Light and dark mode
 * Clean and modern design
 * Lightning fast
 * Fully responsive, looks great on any device
