@@ -16,4 +16,4 @@ You can also change the order of the menu items by dragging and dropping each on
 
 Note that the secondary navigation items are displayed within the "More" submenu if the site is being viewed in a desktop browser as you can see in the following screenshot:
 
-![Navigation bar](https://res.cloudinary.com/edev/image/upload/v1607266475/firma/CleanShot_2020-12-06_at_15.50.47_2x.png)
+![Navigation bar](https://res.cloudinary.com/edev/image/upload/v1641467410/firma/CleanShot_2022-01-06_at_12.08.44.png)

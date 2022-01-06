@@ -62,12 +62,14 @@ module.exports = {
         collapsable: false,
         children: [
           '/guide/',
-          '/guide/theme-structure',
           '/guide/install-theme',
           '/guide/update-theme',
+          '/guide/theme-structure',
           '/guide/publication-settings',
           '/guide/navigation',
+          '/guide/custom-cta-button',
           '/guide/enable-search',
+          '/guide/dark-mode',
           '/guide/enable-authors-page',
           '/guide/enable-tags-page',
           '/guide/enable-newsletter',
@@ -75,7 +77,6 @@ module.exports = {
           '/guide/table-of-contents',
           '/guide/enable-members',
           '/guide/theme-translation',
-          '/guide/dark-version',
           '/guide/theme-development',
         ]
       },
@@ -83,6 +84,7 @@ module.exports = {
         title: 'Additional Notes',
         collapsable: false,
         children: [
+          '/additional-notes/footnote-override',
           '/additional-notes/custom-colors',
           '/additional-notes/post-templates',
           '/additional-notes/social-icons',

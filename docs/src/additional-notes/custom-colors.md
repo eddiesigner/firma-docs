@@ -4,38 +4,35 @@ Firma has a well defined color palette, these are the colors used in all the sty
 
 The list of color variables is as follows:
 
-```css
-:root {
-  --button-text-color: #ffffff;
-  --button-background-color: #471aff;
-  --alt-text-color: #333333;
-  --mask-color: #f6f9fc;
-  --accent-color: #471aff;
-  --border-color: #ebeaeb;
-  --background-color: #ffffff;
-  --background-color-transparent: rgba(255, 255, 255, 0);
-  --foreground-color: #111439;
-  --secondary-text-color: #425466;
-  --placeholder-color: #9f9f9f;
-  --text-color: #555555;
-  --hero-background-color: #13131e;
-  --footer-text-color: #eaeaea;
-  --blob-shape-color: #d1d8e0;
-  --error-color: #c21919;
-  --mobile-menu-shadow-opacity: 0.4;
-  --submenu-shadow-opacity: 0.2;
-  --post-card-shadow-opacity: 0.24;
-}
+```html
+<style>
+  :root {
+    --button-text-color: #ffffff;
+    --alt-text-color: #333333;
+    --mask-color: #f6f9fc;
+    --accent-color: #471aff;
+    --border-color: #ebeaeb;
+    --background-color: #ffffff;
+    --background-color-transparent: rgba(255, 255, 255, 0);
+    --foreground-color: #111439;
+    --secondary-text-color: #425466;
+    --placeholder-color: #9f9f9f;
+    --text-color: #555555;
+    --hero-background-color: #13131e;
+    --footer-text-color: #eaeaea;
+    --blob-shape-color: #d1d8e0;
+    --error-color: #c21919;
+  }
+</style>
 ```
 
-For example, if you want to change the accent color and the background of the primary buttons you can simply use a different color value in `--button-background-color` and `--accent-color`.
+For example, if you want to change the accent color you can simply use a different color value in `--accent-color`.
 
 To do so just open the Ghost Admin, go to **Settings**, click on **Code injection** and paste the following code into the **Site Header** section:
 
 ```html
 <style>
 :root {
-  --button-background-color: #471aff;
   --accent-color: #471aff;
 }
 </style>
@@ -57,14 +54,54 @@ From Ghost 4 onwards if you only want to change the accent color, it is better t
 Be careful not to change the names of the variables, they should remain as they are.
 :::
 
+## Dark Mode
+
+It is also possible to modify the colors of the dark theme if you wish, below you can see the colors that the theme uses.
+
+```html
+<style>
+  [theme-mode="dark"] {
+    --button-text-color: #10101d;
+    --alt-text-color: #dbd8e3;
+    --mask-color: #10101d;
+    --accent-color: #896bff;
+    --border-color: #323549;
+    --background-color: #1a1a2e;
+    --background-color-transparent: rgba(26, 26, 46, 0);
+    --foreground-color: #efedf6;
+    --secondary-text-color: #dad5f3;
+    --placeholder-color: #9f9f9f;
+    --text-color: #eeeeee;
+    --hero-background-color: #13131e;
+    --footer-text-color: #eaeaea;
+    --blob-shape-color: #dad5f3;
+    --error-color: #c21919;
+  }
+</style>
+```
+
+If you want to change some colors you can also do it in the Ghost Admin, for example, if you want to change the background color you can inject the following code:
+
+```html
+<style>
+[theme-mode="dark"] {
+  --background-color: #030320;
+}
+</style>
+```
+
+## Other Colors
+
 Additionally, there are other color variables that you can also modify if you wish:
 
-```css
-:root {
-  --featured-main-color: #ffffff;
-  --background-text-color: #aebecf;
-  --focus-color: #90cdf4;
-  --loading-color: #ffffff;
-  --highlighting-color: #ffff00;
-}
+```html
+<style>
+  :root {
+    --featured-main-color: #ffffff;
+    --background-text-color: #aebecf;
+    --focus-color: #90cdf4;
+    --loading-color: #ffffff;
+    --highlighting-color: #ffff00;
+  }
+</style>
 ```

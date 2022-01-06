@@ -1,5 +1,55 @@
 # Change Log
 
+## Version 2.0.0
+
+> 07/01/2022
+
+* Dark mode support 🎉
+* Add full support for new content cards: [ghost.org/changelog/cardmas/](https://ghost.org/changelog/cardmas/)
+* Custom settings support: [ghost.org/changelog/custom-design-settings/](https://ghost.org/changelog/custom-design-settings/)
+* Update Docker Ghost image (development only)
+* Bug fixes and improvements
+
+```
+Added files:
+
+partials/theme-toggle.hbs
+src/sass/components/header/_theme-toggle.scss
+
+Modified files:
+
+LICENSE
+README.md
+default.hbs
+locales/de.json
+locales/en.json
+locales/es.json
+locales/fr.json
+package.json
+partials/desktop-menu.hbs
+partials/footer.hbs
+partials/header.hbs
+partials/hero.hbs
+partials/logo.hbs
+partials/mobile-menu.hbs
+src/docker-compose.yml
+src/js/post.js
+src/sass/app.scss
+src/sass/common/_icons.scss
+src/sass/common/_theme.scss
+src/sass/components/article/_content.scss
+src/sass/components/common/_button.scss
+src/sass/components/header/_logo.scss
+src/sass/components/header/_mobile-menu.scss
+src/sass/components/header/_submenu.scss
+src/sass/fonts/firma/firma.eot
+src/sass/fonts/firma/firma.svg
+src/sass/fonts/firma/firma.ttf
+src/sass/fonts/firma/firma.woff
+src/sass/fonts/firma/firma.woff2
+src/sass/post.scss
+```
+
 ## Version 1.5.5
 
 > 12/10/2021

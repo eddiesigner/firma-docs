@@ -6,7 +6,7 @@ actionText: Get started →
 actionLink: /guide/
 features:
 - title: Clean & modern design
-  details: It stands out for its clean design and is able to adapt to any company's identity. Light and dark version available.
+  details: It stands out for its clean design and is able to adapt to any company's identity. Light and dark mode available.
 - title: Members-ready
   details: Full Members and subscriptions support (yes, with this theme you can turn your audience into a business).
 - title: Performant

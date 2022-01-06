@@ -30,6 +30,14 @@ This is the primary color that the theme uses to highlight certain elements such
 
 For example, Firma uses `#471aff` as the primary color in the live demo.
 
+Firma also offers the option to set the accent color for the dark mode in case it doesn't quite blend well. You can set the accent color for dark mode in the theme design settings as shown below:
+
+![](https://res.cloudinary.com/edev/image/upload/v1641467176/firma/CleanShot_2022-01-06_at_12.05.28.png)
+
+::: warning
+The accent color for dark mode is only available if you're using Ghost 4.20.0 or later and Firma 2.0.0 or later.
+:::
+
 **Publication Icon**
 
 The icon or _favicon_ is a small image that can be seen in the browser tab, next to the title. You can change the icon in this section.
@@ -38,7 +46,17 @@ The icon or _favicon_ is a small image that can be seen in the browser tab, next
 
 Ghost by default includes a white logo, I recommend you to remove it and upload your own logo. You can do this in the **Publication logo** field located in this section.
 
-In case you delete the default logo and don't upload any logo of your own, the theme will show the publication title instead.
+If your logo does not look good in dark mode, you can upload an additional logo to be displayed when dark mode is activated. You can upload your second logo in the theme design settings as shown below:
+
+![](https://res.cloudinary.com/edev/image/upload/v1641466789/firma/CleanShot_2022-01-06_at_11.58.40.png)
+
+::: tip
+If you don't upload a logo the theme will use the title of your publication as logo, which will be displayed correctly in both light mode and dark mode.
+:::
+
+::: warning
+The second logo option is only available if you're using Ghost 4.20.0 or later and Firma 2.0.0 or later.
+:::
 
 **Publication Cover**
 
@@ -47,10 +65,6 @@ You can also change the cover which is shown in the first section of the home pa
 Here's a screenshot of these settings:
 
 ![Publication identity](https://res.cloudinary.com/edev/image/upload/v1616887152/firma/CleanShot_2021-03-28_at_00.17.07_2x_1.png)
-
-::: warning
-If you decide to use the dark version you may need to upload a new logo that has enough contrast with the dark background.
-:::
 
 ## Posts Per Page
 

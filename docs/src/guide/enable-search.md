@@ -2,25 +2,41 @@
 
 The search uses a Content API Key in order to work, that means the first thing you have to do is to generate a new Key, to do so please follow these steps:
 
+## Generate your Content API Key
+
 1. In the Ghost Admin head to the **Integrations** page and press the **Add custom integration** button. You can name it as you like but I recommend that you name it _Search_.
 
 2. Copy the **Content API Key**.
 
-3. Then head to the **Code injection** page and paste the following code into the **Site Header** block:
+## Save your Content API Key
+
+If you're using Ghost 4.20.0 or later and Firma 2.0.0 or later you can simply paste the key in the theme design settings as shown bellow:
+
+![](https://res.cloudinary.com/edev/image/upload/v1641467804/firma/CleanShot_2022-01-06_at_12.15.43.png)
+
+::: warning
+If you had previously added your key and now you prefer to add your key in the theme design settings please make sure to delete the code you injected otherwise an error will appear in the console because that variable had already been declared previously.
+:::
+
+If you're using a previous version please do the following instead:
+
+Head to the **Code injection** page and paste the following code into the **Site Header** block:
 
 ```html
 <script>
-  const ghostSearchApiKey = 'YOUR_CONTENT_API_KEY_GOES_HERE'
+  const ghostSearchApiKey = 'YOUR_CONTENT_API_KEY_GOES_HERE';
 </script>
 ```
 
-Remember that you have to replace `YOUR_CONTENT_API_KEY_GOES_HERE` with the Content API Key that you got in step 2.
+Remember that you have to replace `YOUR_CONTENT_API_KEY_GOES_HERE` with the Content API Key that you got previously (please keep the single quotes).
 
-4. Now head to the **Pages** page and press the **New page** button.
+## Create the Search Page
 
-5. Name this page as _Search_.
+1. Head to the **Pages** page and press the **New page** button.
 
-6. Publish the page.
+2. Name this page as _Search_.
+
+3. Publish the page.
 
 ::: warning
 It is important that the **Page URL** value in the page settings is `search`, otherwise it will not work properly.
