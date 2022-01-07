@@ -1,6 +1,6 @@
 # Footnote Text Override
 
-As of version 2.0.0.0 of the theme, the option to replace the text that appears in the footnote has been added. This means that it is now possible to replace the default text (_Publlished with Ghost_) with the text of your choice.
+As of version 2.0.0 of the theme, the option to replace the text that appears in the footnote has been added. This means that it is now possible to replace the default text (_Publlished with Ghost_) with the text of your choice.
 
 This new option can be found in the theme design settings as shown below:
 

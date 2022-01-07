@@ -1,6 +1,6 @@
 # Custom CTA Button in Home Page
 
-As of version 2.0.0.0 of the theme, the option to replace the CTA button that appears in the first section of the home page has been added.
+As of version 2.0.0 of the theme, the option to replace the CTA button that appears in the first section of the home page has been added.
 
 ![](https://res.cloudinary.com/edev/image/upload/v1641471747/firma/CleanShot_2022-01-06_at_13.21.29_1.png)
 

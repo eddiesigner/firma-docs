@@ -1,6 +1,6 @@
 # Light & Dark Mode
 
-As of version 2.0.0.0 of the theme, a new option has been added to choose between three appearance modes: **Light**, **Dark** and **Automatic** (default). The user can set the preferred mode from the main menu.
+As of version 2.0.0 of the theme, a new option has been added to choose between three appearance modes: **Light**, **Dark** and **Automatic** (default). The user can set the preferred mode from the main menu.
 
 ![](https://res.cloudinary.com/edev/image/upload/v1641467410/firma/CleanShot_2022-01-06_at_12.08.44.png)
 
