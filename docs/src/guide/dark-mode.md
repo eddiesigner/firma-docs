@@ -17,7 +17,7 @@ The Light mode is used when the user explicitly selects this mode from the menu 
 The Dark mode is used when the user explicitly selects this mode from the menu or if the Automatic mode is enabled and the user's operating system has the dark mode enabled. If the user selects this mode from the menu, this mode will remain activated regardless of the operating system mode unless the user selects another mode.
 
 ::: tip
-If you wish to customize the colors of either the light theme or the dark theme please refer to the [Custom Colors](/additional-notes/custom-colors) section to see how you can do so.
+If you wish to customize the colors of either the light theme or the dark theme please refer to the [Custom Colors](/additional-notes/custom-colors.html) section to see how you can do so.
 :::
 
 ## Disable Dark Mode
