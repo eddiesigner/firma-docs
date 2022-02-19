@@ -25,6 +25,7 @@ partials/membership.hbs
 src/js/app.js
 src/js/helpers.js
 src/sass/components/article/_content.scss
+src/sass/components/common/_button.scss
 ```
 
 ## Version 2.0.0
