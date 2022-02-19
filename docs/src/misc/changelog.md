@@ -1,5 +1,32 @@
 # Change Log
 
+## Version 2.0.1
+
+> 21/02/2022
+
+* Dutch (Netherlands) translations were added (by **Danny Bonte**)
+* French translations were updated (by **Cédric Godart**)
+* Small improvements in the way plans and subscriptions prices are displayed
+* Fixes an issue where the text of buttons wouldn't be visible on hover under certain circustances in posts pages
+* A code that attempted to modify the appearance of Ghost notifications and was generating an error in the browser console was removed
+
+```
+Added files:
+
+locales/nl.json
+
+Modified files:
+
+README.md
+locales/fr.json
+members/account.hbs
+package.json
+partials/membership.hbs
+src/js/app.js
+src/js/helpers.js
+src/sass/components/article/_content.scss
+```
+
 ## Version 2.0.0
 
 > 07/01/2022
