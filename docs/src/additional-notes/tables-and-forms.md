@@ -44,11 +44,51 @@ The container with the class `f-table-container` is important, please do not for
 
 Firma comes with styles for these form elements:
 
+* Button
 * Input text
 * Textarea
 * Select
 * Checkbox
 * Radio button
+
+### Button
+
+For a button or a link to have the styles of the theme you must add the `f-button` class to the element. That is the base class of a button, if you want the button to be prominent you can add the `primary` class, you can also add the `medium` or `large` class if you want the button to be bigger.
+
+Examples:
+
+```html
+<!-- Button -->
+<button class="f-button">
+  Regular button example
+</button>
+
+<!-- Link -->
+<a href="#" class="f-button">
+  Regular link example
+</a>
+
+<!-- Primary style -->
+<a href="#" class="f-button primary">
+  Primary link example
+</a>
+
+<!-- Medium style -->
+<a href="#" class="f-button primary medium">
+  Medium size example
+</a>
+
+<!-- Large style -->
+<a href="#" class="f-button primary large">
+  Large size example
+</a>
+```
+
+### Input text and Textarea
+
+These elements already have styles defined out of the box so it's not necessary to do anything special to make them look as they appear in the style guide.
+
+### Select
 
 To add a **select** element correctly you should use a code like this one:
 
@@ -64,6 +104,8 @@ To add a **select** element correctly you should use a code like this one:
 ```
 
 The container with the class `f-select-container` is important, as well as the `span` element with the class `icon-chevron-down`.
+
+### Checkbox and Radio button
 
 To add a **checkbox** or a **radio button** element correctly you should use some code like this one:
 
