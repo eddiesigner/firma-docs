@@ -1,5 +1,50 @@
 # Change Log
 
+## Version 2.5.0
+
+> 13/06/2022
+
+* **Ghost 5 support** 🎉
+* Membership Tiers support: [ghost.org/help/tiers/](https://ghost.org/help/tiers/)
+* Update Docker Ghost image (development only)
+* Bug fixes and improvements
+
+```
+Added files:
+
+src/sass/components/membership/_plan-switcher.scss
+
+Modified files:
+
+README.md
+author.hbs
+custom-table-of-contents.hbs
+index.hbs
+locales/de.json
+locales/en.json
+locales/es.json
+locales/fr.json
+locales/nl.json
+package.json
+page-search.hbs
+page.hbs
+partials/desktop-menu.hbs
+partials/hero.hbs
+partials/logo.hbs
+partials/membership.hbs
+partials/mobile-menu.hbs
+partials/nav-post.hbs
+post.hbs
+src/docker-compose.yml
+src/js/vendor/search-libs.min.js
+src/sass/common/_global.scss
+src/sass/components/common/_standard-container.scss
+src/sass/components/membership/_membership.scss
+src/sass/components/membership/_memberships-container.scss
+src/sass/membership.scss
+tag.hbs
+```
+
 ## Version 2.0.1
 
 > 21/02/2022
