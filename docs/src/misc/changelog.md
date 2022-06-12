@@ -25,6 +25,7 @@ locales/en.json
 locales/es.json
 locales/fr.json
 locales/nl.json
+members/signup.hbs
 package.json
 page-search.hbs
 page.hbs
@@ -34,6 +35,7 @@ partials/logo.hbs
 partials/membership.hbs
 partials/mobile-menu.hbs
 partials/nav-post.hbs
+partials/newsletter-form.hbs
 post.hbs
 src/docker-compose.yml
 src/js/vendor/search-libs.min.js

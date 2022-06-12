@@ -98,7 +98,7 @@ A tiered pricing strategy makes it possible to grow your business by offering di
 
 If you want to know how to create and configure your own custom tiers you can check [the official documentation](https://ghost.org/help/tiers/). Your tiers will be automatically displayed on the **Membership** page.
 
-![Membership tiers](https://res.cloudinary.com/edev/image/upload/v1654527651/galerie/CleanShot_2022-06-06_at_17.00.27.png)
+![Membership tiers](https://res.cloudinary.com/edev/image/upload/v1655058489/firma/CleanShot_2022-06-12_at_20.27.43.png)
 
 ## Portal
 
