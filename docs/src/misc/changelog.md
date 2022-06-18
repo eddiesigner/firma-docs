@@ -1,5 +1,18 @@
 # Change Log
 
+## Version 2.5.1
+
+> 20/06/2022
+
+* Fixes an issue where the Signup page didn't redirect the user to the correct page if their session was active
+
+```
+Modified files:
+
+members/signup.hbs
+package.json
+```
+
 ## Version 2.5.0
 
 > 13/06/2022
