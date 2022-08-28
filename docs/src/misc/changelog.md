@@ -1,5 +1,38 @@
 # Change Log
 
+## Version 2.6.0
+
+> 29/08/2022
+
+* Native Search support: [ghost.org/changelog/search/](https://ghost.org/changelog/search/)
+* Native Comments support: [ghost.org/changelog/native-comments/](https://ghost.org/changelog/native-comments/)
+* Add Chinese translation
+* Fix theme mode flickering when page loads
+* Fix Docker development environment
+* Update Docker Ghost image (development only)
+* Update dependencies
+
+```
+Added files:
+
++ locales/cn.json
+
+Modified files:
+
+* default.hbs
+* package.json
+* partials/comments.hbs
+* partials/header.hbs
+* partials/search.hbs
+* src/docker-compose.yml
+* src/js/vendor/search-libs.min.js
+* src/package-lock.json
+* src/package.json
+* src/sass/components/article/_article.scss
+* src/sass/components/common/_title.scss
+* src/webpack.mix.js
+```
+
 ## Version 2.5.1
 
 > 20/06/2022

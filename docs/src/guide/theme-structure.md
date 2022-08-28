@@ -58,6 +58,7 @@ The theme is organized with the following file structure:
 ├── error-404.hbs
 ├── index.hbs
 ├── locales
+│   ├── cn.json
 │   ├── de.json
 │   ├── en.json
 │   ├── es.json
