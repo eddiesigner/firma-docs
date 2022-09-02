@@ -1,5 +1,18 @@
 # Change Log
 
+## Version 2.6.1
+
+> 02/09/2022
+
+* Fixed the issue where the setting "Disable dark mode" wasn't working in the last update
+
+```
+Modified files:
+
+* default.hbs
+* package.json
+```
+
 ## Version 2.6.0
 
 > 29/08/2022
