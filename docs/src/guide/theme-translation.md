@@ -9,6 +9,8 @@ Firma is fully translatable and it comes with the following translations out of 
 * 🇫🇷 French (thanks **Cédric Godart**!)
 * 🇩🇪 German (thanks **David Colombo**!)
 * 🇳🇱 Dutch (thanks **Danny Bonte**!)
+* 🇸🇰 Slovak (thanks **Vladimír Záhradnik**)
+* 🇨🇿 Czech (thanks **Vladimír Záhradnik**)
 * 🇨🇳 Chinese (thanks to **CATMAN**!)
 
 To change the language of your website just open the Ghost Admin, head to **General** and expand the **Publication language** section, now simply enter the [language locale](https://www.w3schools.com/tags/ref_language_codes.asp) that you prefer, for example `en` for English or `es` for Spanish.

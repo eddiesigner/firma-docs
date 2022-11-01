@@ -59,10 +59,13 @@ The theme is organized with the following file structure:
 ├── index.hbs
 ├── locales
 │   ├── cn.json
+│   ├── cs.json
 │   ├── de.json
 │   ├── en.json
 │   ├── es.json
 │   └── fr.json
+│   └── nl.json
+│   └── sk.json
 ├── members
 │   ├── account.hbs
 │   ├── membership.hbs
@@ -101,6 +104,7 @@ The theme is organized with the following file structure:
 │   ├── related-post.hbs
 │   ├── search.hbs
 │   ├── share-post.hbs
+│   ├── social-links.hbs
 │   ├── theme-toggle.hbs
 │   └── toc.hbs
 ├── post.hbs
