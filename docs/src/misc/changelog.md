@@ -1,5 +1,37 @@
 # Change Log
 
+## Version 2.7.0
+
+> 01/11/2022
+
+* Add Slovak and Czech translations (by **Vladimír Záhradnik**)
+* Consolidate social links in one single template
+* Fixed color of publication title in footer when logo is not available
+* Fixed some minor style issues in the submenu
+* Fixed an issue where divider overlapped the TOC
+* Update Ghost image version (development only)
+* Bump version
+
+```
+Added files:
+
++ locales/cs.json
++ locales/sk.json
++ partials/social-links.hbs
+
+Modified files:
+
+* package.json
+* partials/desktop-menu.hbs
+* partials/footer.hbs
+* partials/mobile-menu.hbs
+* partials/social-links.hbs
+* src/docker-compose.yml
+* src/sass/components/article/_content.scss
+* src/sass/components/header/_logo.scss
+* src/sass/components/header/_submenu.scss
+```
+
 ## Version 2.6.1
 
 > 02/09/2022
