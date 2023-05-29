@@ -1,5 +1,58 @@
 # Change Log
 
+## Version 2.8.0
+> 30/05/2023
+
+* Native support for [Announcement bar](https://ghost.org/changelog/announcement-bar/)
+* Introduced a new custom setting to use only Portal for Members instead of the related features provided by the theme ([learn more](../guide/enable-members.html#portal))
+* The Newsletter form at the bottom of the page is now hidden when the user is logged-in
+* Sort "Related posts" by recently published
+* Updated Ghost image version (development only)
+* Bump version number
+
+```
+Added files:
+
++ src/sass/components/header/_announcement-bar.scss
+
+Modified files:
+
+* author.hbs
+* custom-post-no-newsletter.hbs
+* custom-table-of-contents.hbs
+* custom-toc-no-newsletter.hbs
+* index.hbs
+* members/account.hbs
+* package.json
+* page-search.hbs
+* page.hbs
+* partials/avatar.hbs
+* partials/desktop-menu.hbs
+* partials/hero.hbs
+* partials/mobile-menu.hbs
+* partials/newsletter-form.hbs
+* partials/post-access.hbs
+* post.hbs
+* src/docker-compose.yml
+* src/js/app.js
+* src/js/helpers.js
+* src/sass/app.scss
+* src/sass/common/_global.scss
+* src/sass/common/_variables.scss
+* src/sass/components/404/_container.scss
+* src/sass/components/account/_account-user.scss
+* src/sass/components/article/_content.scss
+* src/sass/components/article/_toc.scss
+* src/sass/components/auth/_container.scss
+* src/sass/components/common/_avatar.scss
+* src/sass/components/header/_desktop-top-bar.scss
+* src/sass/components/header/_header.scss
+* src/sass/components/header/_mobile-top-bar.scss
+* src/sass/components/header/_progress.scss
+* src/sass/components/search/_container.scss
+* tag.hbs
+```
+
 ## Version 2.7.0
 
 > 01/11/2022
