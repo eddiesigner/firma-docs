@@ -77,6 +77,7 @@ module.exports = {
           '/guide/table-of-contents',
           '/guide/enable-members',
           '/guide/theme-translation',
+          '/guide/custom-fonts',
           '/guide/theme-development',
         ]
       },

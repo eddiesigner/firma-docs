@@ -2,32 +2,31 @@
 
 Firma includes the following social icons in case you want to use them somewhere in your website:
 
+* Behance
+* Discord
+* Dribbble
+* Facebook
+* GitHub
+* Instagram
+* Linkedin
+* Medium
+* Messenger
+* Reddit
+* RSS
+* Slack
+* Skype
+* Snapchat
+* Spotify
+* Telegram
+* Tumblr
+* Twitch
 * Vimeo
 * VK
 * Wechat
+* Wellfound
 * Whatsapp
+* X
 * Youtube
-* Twitter
-* Tumblr
-* Twitch
-* Telegram
-* Spotify
-* Snapchat
-* Skype
-* Slack
-* RSS
-* Reddit
-* Behance
-* Dribbble
-* Instagram
-* Discord
-* Facebook
-* GitHub
-* Messenger
-* AngelList
-* Xing
-* Linkedin
-* Medium
 
 To use any of these icons you must use a code like this:
 
