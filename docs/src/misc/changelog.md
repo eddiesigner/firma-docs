@@ -3,7 +3,7 @@
 ## Version 3.0.0
 > 16/12/2024
 
-* Added support for [custom fonts](https://ghost.org/tutorials/email/ad58caee-4c78-4241-9a24-5dd2bd90753c/)
+* Added support for [custom fonts](/guide/custom-fonts.html)
 * All icons have been updated, especially the social media ones where X and Wellfound icons have replaced Twitter and AngelList icons
 * Yearly plans are now displayed by default on the Membership page
 * Added a button on the Account page so members can edit their account details
