@@ -1,5 +1,53 @@
 # Change Log
 
+## Version 3.0.0
+> 16/12/2024
+
+* Added support for [custom fonts](https://ghost.org/tutorials/email/ad58caee-4c78-4241-9a24-5dd2bd90753c/)
+* All icons have been updated, especially the social media ones where X and Wellfound icons have replaced Twitter and AngelList icons
+* Yearly plans are now displayed by default on the Membership page
+* Added a button on the Account page so members can edit their account details
+* Fixed an issue where the price of a subscription plan had a wrong format under certain circumstances
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Added files:
+
++ .github/workflows/deploy-theme.yml
++ src/.env.example
++ src/.gitignore
++ src/deploy/index.js
+
+Modified files:
+
+* default.hbs
+* locales/en.json
+* locales/es.json
+* members/account.hbs
+* package.json
+* partials/collection-header.hbs
+* partials/membership.hbs
+* partials/share-post.hbs
+* partials/social-links.hbs
+* src/docker-compose.yml
+* src/package-lock.json
+* src/package.json
+* src/sass/common/_global.scss
+* src/sass/common/_icons.scss
+* src/sass/components/article/_content.scss
+* src/sass/components/article/_share.scss
+* src/sass/components/auth/_form.scss
+* src/sass/components/common/_button.scss
+* src/sass/components/header/_search.scss
+* src/sass/components/header/_theme-toggle.scss
+* src/sass/fonts/firma/firma.eot
+* src/sass/fonts/firma/firma.svg
+* src/sass/fonts/firma/firma.ttf
+* src/sass/fonts/firma/firma.woff
+* src/sass/fonts/firma/firma.woff2
+````
+
 ## Version 2.9.0
 > 04/09/2023
 
