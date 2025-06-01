@@ -3,12 +3,14 @@
 Firma includes the following social icons in case you want to use them somewhere in your website:
 
 * Behance
+* BlueSky
 * Discord
 * Dribbble
 * Facebook
 * GitHub
 * Instagram
 * Linkedin
+* Mastodon
 * Medium
 * Messenger
 * Reddit
@@ -18,6 +20,8 @@ Firma includes the following social icons in case you want to use them somewhere
 * Snapchat
 * Spotify
 * Telegram
+* Threads
+* TikTok
 * Tumblr
 * Twitch
 * Vimeo

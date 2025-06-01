@@ -1,5 +1,29 @@
 # Change Log
 
+## Version 3.1.0
+> 02/06/2025
+
+* Added support for [more staff social links](https://ghost.org/changelog/social-links/)
+* Added BlueSky, Mastodon, Threads and TikTok icons
+* Fixed an issue where the color of social icons on the author page was not correct
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Modified files:
+
+* package.json
+* partials/collection-header.hbs
+* src/docker-compose.yml
+* src/sass/common/_icons.scss
+* src/sass/components/collection/_author-meta.scss
+* src/sass/fonts/firma/firma.eot
+* src/sass/fonts/firma/firma.svg
+* src/sass/fonts/firma/firma.ttf
+* src/sass/fonts/firma/firma.woff
+* src/sass/fonts/firma/firma.woff2
+````
+
 ## Version 3.0.0
 > 16/12/2024
 
