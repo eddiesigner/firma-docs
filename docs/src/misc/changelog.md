@@ -1,5 +1,44 @@
 # Change Log
 
+## Version 3.3.0
+> 01/01/2026
+
+* Added support for [call to action cards](https://ghost.org/help/cards/#call-to-action)
+* Added support for [One-time codes for sign in](https://ghost.org/changelog/one-time-codes-for-sign-in/)
+* Use new `social_url` helper instead of `twitter_url` and `facebook_url` helpers
+* Use Vite instead of Webpack for local development
+* Updated Docker image (development only)
+* Bump version number
+
+````
+Added files:
++ src/bs-config.cjs
++ src/vite.config.js
+
+Modified files:
+* .gitignore
+* custom-page-no-newsletter.hbs
+* custom-post-no-newsletter.hbs
+* custom-table-of-contents.hbs
+* custom-toc-no-newsletter.hbs
+* default.hbs
+* members/signin.hbs
+* package.json
+* page.hbs
+* partials/collection-header.hbs
+* partials/social-links.hbs
+* post.hbs
+* src/deploy/index.js
+* src/docker-compose.yml
+* src/order-locales.js
+* src/package-lock.json
+* src/package.json
+* src/sass/components/article/_content.scss
+
+Removed files:
+- src/webpack.mix.js
+````
+
 ## Version 3.2.0
 > 18/08/2025
 
